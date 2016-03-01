@@ -13,6 +13,6 @@ angular.module('angularWrapper', []).factory('_', function() {
     return window._;
 });
 
-angular.module('angularMoment', []).factory('moment', function() {
+angular.module('angularWrapper', []).factory('moment', function() {
     return window.moment;
 });
