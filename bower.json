@@ -19,6 +19,9 @@
     "tests"
   ],
   "devDependencies": {
-    "angular": "~1.5.0"
+    "angular": "~1.5.0",
+    "jquery": "~2.2.1",
+    "lodash": "~4.5.1",
+    "moment": "~2.11.2"
   }
 }
