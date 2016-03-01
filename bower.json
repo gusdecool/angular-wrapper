@@ -1,0 +1,24 @@
+{
+  "name": "angular-wrapper",
+  "version": "1.0.0",
+  "authors": [
+    "GusDeCooL <gusdecool@gmail.com>"
+  ],
+  "description": "Angular wrapper for well known library",
+  "keywords": [
+    "angularjs",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.5.0"
+  }
+}
